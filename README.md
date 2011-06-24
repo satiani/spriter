@@ -24,6 +24,7 @@ How do I hope to achieve this:
     all the original images.
   - A request to any image is mapped by Apache to a controller that serves the
     generated sprite from the original image URLs.
+
 - Browser ends up sending only one request for all the images.
 - Images end up being rendered just as if they have been if they were still in
   image tags.
