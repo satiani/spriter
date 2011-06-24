@@ -28,3 +28,5 @@ How do I hope to achieve this:
 - Browser ends up sending only one request for all the images.
 - Images end up being rendered just as if they have been if they were still in
   image tags.
+
+~~~~sa
